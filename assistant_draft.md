@@ -19,7 +19,22 @@ I care deeply about improving how organizations manage their operations and make
 ## Note on This Assignment
 
 **Prompt used:**
-"Write content for a professional profile document about someone interested in AI and business operations. The person studied Information Systems and AI for Business at Johns Hopkins, and cares about improving business workflows and decision making. Include a short title, introduction, a paragraph about their area of interest, three ways generative AI could help, and keep the tone natural and accessible."
+Please create content for assistant_draft.md in this project folder.
+
+Requirements:
+- Add a short title
+- Add one short paragraph introducing me
+- Add one short paragraph describing an industry, function, or problem area I care about
+- Add one short bullet list with 3 ways generative AI might be useful in that area
+- At the bottom, add a short note with:
+  1. the exact prompt used
+  2. one or two sentences on what the assistant did well
+  3. one or two sentences on anything I needed to clarify or adjust
+
+Please write in simple, natural English.
+
+Background about me:
+My name is Tengye Lyu. I studied Information Technology at Northeastern University and I am now studying Information Systems and AI for Business. I am interested in using AI and information systems to improve business workflows and decision making. I care especially about business operations and practical uses of AI in organizations.
 
 **What worked well:**
 The assistant quickly understood my background and interests, and wrote content that felt authentic rather than generic. It straightforwardly translated my background into a coherent narrative about business operations and AI applications.
