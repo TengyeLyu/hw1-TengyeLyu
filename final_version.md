@@ -1,18 +1,18 @@
-# Using AI to Transform Business Operations
+# My Interest in Practical AI for Business Operations
 
 ## About Me
 
-My name is Tengye Lyu. I'm a Johns Hopkins University graduate with a background in Information Systems and AI for Business. I'm passionate about finding practical ways to use technology and data to help organizations work smarter and make better decisions. My goal is to bridge the gap between cutting-edge AI capabilities and real business challenges that companies face every day.
+My name is Tengye Lyu. I studied Information Technology at Northeastern University, and I am currently studying Information Systems and AI for Business at Johns Hopkins University. I am especially interested in how AI can improve business workflows, support better decisions, and solve practical problems in organizations.
 
 ## The Challenge: Business Operations and Decision Making
 
-I care deeply about improving how organizations manage their operations and make decisions. Many businesses struggle with workflows that are fragmented, time-consuming, and prone to inefficiencies. Whether it's processing customer data, coordinating across teams, or analyzing information to support strategic choices, there's often too much manual work and not enough insight. I believe that smarter information systems and AI tools can help companies streamline these processes and enable people to focus on what matters most.
+I care most about business operations because many organizations still rely on slow and fragmented workflows. In areas such as reporting, communication, and daily decision support, employees often spend too much time on repetitive tasks and not enough time on analysis. I want to explore how AI tools can reduce routine work and help teams make faster and better decisions.
 
 ## Three Ways Generative AI Can Help
 
-- **Automate routine tasks and data processing**: AI can handle repetitive work like document review, data entry, and summarization, freeing up team members to focus on higher-value analysis and decision-making.
-- **Improve decision support through better insights**: AI can analyze large amounts of operational data and surface key patterns or recommendations quickly, helping leaders make faster and more informed choices.
-- **Enhance communication and knowledge sharing**: AI can help teams document processes, answer common questions, and share best practices more efficiently, reducing time spent searching for information.
+- Automate routine reporting and document tasks so teams can spend more time on analysis.
+- Summarize business data and communication more quickly to support better decisions.
+- Help teams document workflows and share knowledge more clearly across departments.
 
 ---
 
@@ -26,3 +26,16 @@ The assistant quickly understood my background and interests, and wrote content 
 
 **What I could adjust:**
 The bulleted examples are a bit broad—I might want to make them more specific to particular industries or scenarios. Also, I could add a sentence or two with a concrete example of a business challenge to make the problem area feel more tangible.
+
+---
+
+## Note on My Manual Edits
+
+**What I changed myself:**  
+I revised the introduction to make my academic background more accurate. I also added more specific details about my interest in business operations and practical AI use in organizations. In addition, I rewrote some sentences to make them clearer and less generic.
+
+**Why I changed it:**  
+I wanted the file to reflect my real background and interests more accurately. I also wanted the writing to sound more specific and natural instead of too broad.
+
+**One thing I did not want to keep as-is:**  
+The assistant described me as a Johns Hopkins University graduate, which is not accurate. I changed it to show that I am currently studying there.
