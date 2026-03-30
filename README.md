@@ -22,5 +22,4 @@ These commits show the main steps of my workflow in this assignment:
 - `Update README with workflow summary`
 
 ## Video Link
-
-Video link will be added later.
+https://youtu.be/_liveAQxibU
